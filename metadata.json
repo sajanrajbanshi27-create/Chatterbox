@@ -1,0 +1,6 @@
+{
+  "name": "ChatterBox",
+  "description": "A full-featured real-time chat platform with group messaging, voice/video call signaling, customizable themes, and integrated Gemini AI chat.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
